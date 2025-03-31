@@ -36,7 +36,7 @@ body{
     border-radius: 50%;
     border: solid 4px white;
     overflow: hidden;
-    background-color:#000d80d0;
+    background-color:rgba(157, 221, 157, 0.89);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,7 +78,7 @@ body{
 .classes-box-headings{
     height:10vh;
     width: 250px;
-    background-color:#b38091e8;
+    background-color:rgba(157, 221, 157, 0.89);
     color: white;
     font-weight:500;
     font-size: 0.1em;
