@@ -7,54 +7,11 @@
 body{
     background-color: whitesmoke;
 }
-.header{
-    min-height: 3.57em;
-    width: 100%;
-    background-color: #f3f6f4;
-     margin-inline-start:-9PX; 
-     margin-block-start: -10PX;
-    /* position: fixed; */
-    display: flex;
-    align-items: center;
-    justify-content:right;
-    flex-wrap: wrap;
-}
-.child1{
-    height: 10px;
-    width: 100px;
-    margin: 5px 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-@media (max-width: 768px) {
-  .header {
-    justify-content: center;
-    padding: 0.5rem;
-  }
 
-  .child1 {
-    width: 80px;
-    margin: 5px 5px;
-  }
-}
-
-@media (max-width: 480px) {
-  .header {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .child1 {
-    width: 100%;
-    margin: 5px 0;
-  }
-} 
 
         .container{
             
-          background-color: #92bebb; 
+           color: #4CAF50;
      /* background-image:url("./college.jpg") ; */ 
      height: 40px;
     margin-top: 10px; 
