@@ -7,7 +7,11 @@ body{
     height: 100%;
     width: 100%;
     overflow-x: hidden;
-    overflow-y: hidden;
+}
+
+.pag1-contanier{
+    height: 100vh;
+    width: 100%;
 }
 
 .top-container{
@@ -158,4 +162,48 @@ body{
 
 .classes button:hover{
     font-size:18px;
+}
+
+.page2-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.page2rightlogo{
+    height: 50vh;
+    width: 30vw;
+}
+
+.page2rightlogo img{
+    height: 300px;
+    margin-left: 120px;
+    
+}
+
+.page2-right{
+    height: 50vh;
+    width: 70vw;
+}
+
+.events{
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+    border: solid 4px black;
+    cursor: pointer;
+}
+
+.page2-top{
+    height: 25vh;
+    width: 70vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.events img{
+    height:80%;
+    width: 80%;
+    margin: 10px;
 }
