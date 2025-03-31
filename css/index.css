@@ -11,16 +11,20 @@ body{
     position: fixed;
     display: flex;
     align-items: center;
-    justify-content:right;
     flex-wrap: wrap;
+    text-decoration: none;
+}
+.header img{
+    height: 2.5em;
+    margin: 5px 5px ;
 }
 .child1{
-    height: 10px;
-    width: 100px;
-    margin: 5px 10px;
+    margin: 5px 20px;
+    font-size: 1.2em;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .college img{
     height: 100vh;
@@ -63,9 +67,9 @@ body{
 }
 .img-con{
     height: 55%;
-    background-color: aqua;
+    background-color: rgb(114, 228, 123);
     width: 100%;
-    background-color: rgb(70, 67, 67);
+    background-color: rgb(145, 202, 143);
 }
 .img-con img{
     height: 100%;
