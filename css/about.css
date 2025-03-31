@@ -7,12 +7,11 @@ body{
     width: 100%;
     background-color:lightgrey;
 }
-.aboutus img{
-   height: 100%; 
-   background-color: lightgray;
-   width: 100%;
-   
 
+.aboutus img{
+   height: 100%;
+   width: 100%;
+   background-color:lightgray;
 }
 /*About Us section*/
 .aboutus{
@@ -29,7 +28,7 @@ body{
 .about-us h2{
     font-size: 36px;
     margin-top: 20px;
-    color:red;
+    color:lightgreen;
     text-align: center;
 }
 .about-us p{
@@ -43,7 +42,7 @@ body{
     margine-top:30px;
     color:#333;
     text-align: center;
-    color:blue;
+    color:lightgreen;
 
 }
 .about-us p{
@@ -56,7 +55,7 @@ body{
 .about-us h4{
     font-size: 28px;
     line-height:2.0;
-    color: purple;
+    color: lightgreen;
     text-align: center;
 }
 .about-us p{
