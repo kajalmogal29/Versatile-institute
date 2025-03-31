@@ -32,6 +32,7 @@
     list-style:none;
     width: 100%;
     float:left;
+    font-size: 2em;
     padding:0px 10px 0px 5px;
 }
 .notice-board ul li {
