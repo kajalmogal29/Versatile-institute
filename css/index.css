@@ -13,6 +13,7 @@ body{
     align-items: center;
     justify-content:right;
     flex-wrap: wrap;
+    text-decoration: none;
 }
 .child1{
     height: 10px;
@@ -63,9 +64,9 @@ body{
 }
 .img-con{
     height: 55%;
-    background-color: aqua;
+    background-color: rgb(114, 228, 123);
     width: 100%;
-    background-color: rgb(70, 67, 67);
+    background-color: rgb(145, 202, 143);
 }
 .img-con img{
     height: 100%;
