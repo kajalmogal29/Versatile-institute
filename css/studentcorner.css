@@ -169,7 +169,6 @@ body {
 .page2-container {
     height: 100vh;
     width: 100%;
-    background-color: rgba(179, 245, 179, 0.993);
 }
 
 .main{
@@ -226,11 +225,12 @@ justify-content: space-evenly;
 .Placement{
     height: 50vh;
     width: 100vw;
+    background-color: rgba(170, 247, 170, 0.37);
 }
 
 .top h1{
     font-size: 2.5em;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:cursive;
     text-align: center;
     margin-top: 1px;
 }
@@ -239,6 +239,7 @@ justify-content: space-evenly;
     font-size: 1.5em;
     text-align: center;
     margin-top: 25px;
+    font-family: cursive;
 }
 
 .bottam2{
@@ -254,7 +255,7 @@ justify-content: space-evenly;
     margin-top: 15px;
     overflow: hidden;
     border-radius: 20px;
-    border: 2px solid gray;
+    border: 3px solid rgb(34, 31, 31);
     display: flex;
     justify-content:center; 
     align-items: center;
