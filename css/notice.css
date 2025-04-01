@@ -41,11 +41,7 @@
     font-size: 16px;
     margin-bottom:20px;
 }
-.notice-board img {
-    margin-right: 5px;
-    margin-left: 5px;
-    width:35px;
-}
+
 .event-list {
     width: 100%;
     float: left;
