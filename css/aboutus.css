@@ -15,7 +15,7 @@ body{
    flex-direction: initial;
    margin: 0 auto;
    box-shadow: none;
-   border: #fff;
+   border: lightgray
 }
 /*About Us section*/
 .aboutus{
