@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    
     font-family: 'Spartan',sans-serif;
 }
 body{
@@ -33,7 +33,8 @@ body{
 
 #contact-details .details span,
 #form-details form span {
-    font-size: 12px;
+    font-size: 1.7em;
+    color: #22a097;
 }
 
 #contact-details .details h2,
@@ -41,6 +42,12 @@ body{
     font-size: 26px;
     line-height: 35px;
     padding: 20px 0;
+    color: grey;
+}
+.normal{
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
 }
 
 #contact-details .details h3 {
@@ -76,11 +83,14 @@ filter: box-shadow(20px, 50px,10px);
     width: 55%;
     height: 400px;
 }
-
+#Message{
+    resize:none;
+}
 #contact-details .map iframe {
     width: 100%;
     height: 100%;
 }
+
 #form-details {
     display: flex;
     justify-content: space-between;
